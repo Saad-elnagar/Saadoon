@@ -1,10 +1,9 @@
-# Repository Notice
+# Repository Archive
 
-This repository is currently a placeholder and does not contain a maintained software project.
+This repository is not actively maintained and does not currently contain a software project.
 
-For active .NET work, see:
+For current .NET work, see:
 - [Inventory Management System](https://github.com/Saad-elnagar/InventoryManagement)
 - [Talabat E-Commerce API](https://github.com/Saad-elnagar/Talabat)
 - [Company Management System](https://github.com/Saad-elnagar/3-Tre-MVC)
-
-This README replaces an unrelated profile template so the repository no longer presents another developer's personal details as its own content.
+- [Quantum Radar](https://github.com/Saad-elnagar/Fawry.Quantum_Radar)
